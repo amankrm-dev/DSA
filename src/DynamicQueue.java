@@ -1,7 +1,7 @@
 // Public class with queue operations
 public class DynamicQueue {
     // Node class
-    private class Node {
+     static class Node {
         int data;
         Node next;
 
