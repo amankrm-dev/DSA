@@ -1,6 +1,8 @@
+package Queue;
+
 // Public class with queue operations
 public class DynamicQueue {
-    // Node class
+    // LinkedList.Node class
      static class Node {
         int data;
         Node next;

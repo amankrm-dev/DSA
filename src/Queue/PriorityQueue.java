@@ -1,3 +1,5 @@
+package Queue;
+
 public class PriorityQueue {
     static int[] queue = new int[5];
     static int size = 0;

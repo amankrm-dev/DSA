@@ -1,3 +1,5 @@
+package Trees;
+
 class node {
     int data;
     node left, right;
@@ -16,7 +18,7 @@ public class PreOrderTraversal {
         if (root == null) {
             return;
         }
-        // Visit the root node
+        // Visit the root Trees.node
         System.out.print(root.data + " ");
         // Traverse the left subtree
         preOrder(root.left);

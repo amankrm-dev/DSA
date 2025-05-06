@@ -1,3 +1,5 @@
+package Queue;
+
 public class CircularQueue {
     int front, rear;
     int size;

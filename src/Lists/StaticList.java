@@ -1,3 +1,5 @@
+package Lists;
+
 public class StaticList {
     int[] arr;
     int size;

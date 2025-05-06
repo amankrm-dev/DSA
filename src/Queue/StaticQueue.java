@@ -1,3 +1,5 @@
+package Queue;
+
 public class StaticQueue {
     int[] arr;
     int front, rear, size, capacity;
